@@ -4,8 +4,6 @@ title: Home
 permalink: /
 ---
 
-# Aolan Li
-
 **PhD in Statistics · Yale School of Nursing**
 
 [My CV](cv.html) ·
@@ -37,5 +35,5 @@ multivariate models, as well as microbiome and multi-omics data analysis.
 
 ## Publications
 
-Please see my [publication](publication.md)
+Please see my [publication](publications.md)
 page for an up-to-date list of publications and preprints.
