@@ -1,8 +1,10 @@
-# Publications
-[← Home](index.html) · [CV (PDF)](cv.pdf) ·
-[Google Scholar](https://scholar.google.com/citations?user=Ll702C4AAAAJ&hl=en&oi=ao)
+## Publications
+
+### Journal Articles
+
+**Li, A.**, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O., \& Chen, M. H.. A comparison of Monte Carlo based marginal likelihood estimators (Accepted by WIREs Computational Statistics.)
 
 ---
 
-## Journal Articles
+### Preprints
 
