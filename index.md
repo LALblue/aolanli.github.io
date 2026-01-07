@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-**PhD in Statistics · Yale School of Nursing**
+**PhD in Statistics**
 
 [My CV](cv.html) ·
 [Google Scholar](https://scholar.google.com/citations?user=Ll702C4AAAAJ&hl=en&oi=ao) ·
