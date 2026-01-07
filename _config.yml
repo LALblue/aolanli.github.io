@@ -5,6 +5,4 @@ theme: minima
 header_pages:
   - index.md
   - publications.md
-  - software.md
   - contact.md
-  - outreach.md
