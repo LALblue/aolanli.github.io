@@ -4,7 +4,7 @@
 
 [My CV](cv.html) ·
 [Google Scholar](https://scholar.google.com/citations?user=Ll702C4AAAAJ&hl=en&oi=ao) ·
-[LinkedIn](www.linkedin.com/in/aolan-li-606b6825a)
+[LinkedIn](https://www.linkedin.com/in/aolan-li-606b6825a)
 ---
 
 ## About
