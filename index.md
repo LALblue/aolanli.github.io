@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+
 # Aolan Li
 
 **PhD in Statistics · Yale School of Nursing**
