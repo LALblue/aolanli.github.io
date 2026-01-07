@@ -1,1 +1,1 @@
-# aolanli.github.io
+I am a PhD in statistics at the Yale School of Nursing. My research focuses on Bayesian inference and Monte Carlo computation, with applications to longitudinal and multivariate models, as well as microbiome and multi-omics data analysis.
