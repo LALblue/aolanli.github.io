@@ -7,10 +7,6 @@ permalink: /publications/
 ### Journal Articles
 
 **Li, A.**, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O., & Chen, M. H. (in press). *A comparison of Monte Carlo–based marginal likelihood estimators.* *WIREs Computational Statistics*.  
-[[Link]](https://)
-
-**Li, A.**, & Chen, M. H. (Manuscript under review). *Marginal likelihood decomposition for evaluating covariance structures of repeated measures in randomized controlled trials.*  
-[[Link]](https://)
 
 Zhao, T., **Li, A.**, Wu, W., Chen, J., Combellick, J., Chen, M. H., & Cong, X. (2025). Maternal racial differences and socioeconomic status in preterm infant neurodevelopment, feeding, and growth. *Nursing Research*. Advance online publication.  
 [[DOI]](https://doi.org/10.1097/NNR.0000000000000878)
