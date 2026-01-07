@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-**PhD in Statistics**
+**Ph.D. in Statistics**
 
 [My CV](cv.html) ·
 [Google Scholar](https://scholar.google.com/citations?user=Ll702C4AAAAJ&hl=en&oi=ao) ·
@@ -12,9 +12,7 @@ permalink: /
 
 ## About
 
-I am a statistician at the Yale School of Nursing. My research focuses on Bayesian
-inference and Monte Carlo computation, with applications to longitudinal and
-multivariate models, as well as microbiome and multi-omics data analysis.
+I am a statistician at the Yale School of Nursing. I earned my Ph.D. in Statistics from the University of Connecticut in 2025. My research focuses on Bayesian inference and Monte Carlo computation, with applications to longitudinal and multivariate models, as well as microbiome and multi-omics data analysis.
 
 ---
 
