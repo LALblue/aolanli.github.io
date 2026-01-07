@@ -31,5 +31,5 @@ multivariate models, as well as microbiome and multi-omics data analysis.
 
 ## Publications
 
-Please see my [publishcation](publication.md)
+Please see my [publication](publication.md)
 page for an up-to-date list of publications and preprints.
