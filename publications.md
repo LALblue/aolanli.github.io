@@ -67,12 +67,12 @@ Milkey, A., Chen, M. H., Wang, Y. B., **Li, A.**, & Lewis, P. O. (2025). The seq
 - Oppong, A., **Li, A.**, Graziano, T., & Yang, G. S. (2024, April).
   *Symptom Burdens and Social Factors in Older Cancer Survivors Receiving Immunotherapy: Insights from the NIH All of Us Research Program.*
   Oncology Nursing Society (ONS) Congress (Poster abstract).
-  [[Abstracts (ONF 10.1188/24.ONF.E2)]](https://doi.org/10.1188/24.ONF.E2)
+  [[Abstracts]](https://ons.confex.com/ons/2024/meetingapp.cgi/Paper/15509)
 
 - Xu, W., Elliam, W., & **Li, A.** (2024, April).
   *Factors Associated With Pain in Cancer Survivors: An Analysis of BRFSS Data.*
   Oncology Nursing Society (ONS) Congress (Poster abstract).
-  [[Abstracts (ONF 10.1188/24.ONF.E2)]](https://doi.org/10.1188/24.ONF.E2)
+  [[Abstracts]](https://www.ovid.com/journals/ocnf/abstract/00006549-202403000-00863~factors-associated-with-pain-in-cancer-survivors--an)
 
 - Yang, G. S., Graziano, T. A., **Li, A.**, Starkweather, A. R., Lynch Kelly, D., & Lyon, D. E. (2023, September).
   *The Influence of Race on Differences in Psychoneurological Symptoms Among Early-Stage Breast Cancer Survivors.*
@@ -82,4 +82,4 @@ Milkey, A., Chen, M. H., Wang, Y. B., **Li, A.**, & Lewis, P. O. (2025). The seq
 - **Li, A.**, & Graziano, T. (2023, April).
   *Association of Social Determinants of Health and COVID-19-Related Behaviors with Cervical Cancer Screening in Hispanic Women.*
   Oncology Nursing Society (ONS) Congress (Poster abstract).
-  [[Abstracts (ONF 10.1188/23.ONF.E2)]](https://doi.org/10.1188/23.ONF.E2)
+  [[Abstracts]](https://www.proquest.com/openview/47670243e837e114d65ef2a089a6fc84/1?pq-origsite=gscholar&cbl=37213)
