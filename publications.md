@@ -52,16 +52,34 @@ Milkey, A., Chen, M. H., Wang, Y. B., **Li, A.**, & Lewis, P. O. (2025). The seq
 
 ### Conference Publications / Abstracts
 
-- [Informing Educational Outreach in Oncology: Evaluation of Dietary Consumption Patterns, Supplement Consumption and Clinical Factors in Breast Cancer Survivors (JAND conference abstract, 2025)](https://doi.org/10.1016/j.jand.2025.06.083)
+- Informing Educational Outreach in Oncology: Evaluation of Dietary Consumption Patterns, Supplement Consumption and Clinical Factors in Breast Cancer Survivors (JAND conference abstract, 2025)[[DOI]](https://doi.org/10.1016/j.jand.2025.06.083)
 
-- Racial Disparity in the Association between Early Life Pain/Stress Exposure and Neurodevelopmental Outcomes among Black and White Preterm Infants (ENRS’ 37th Annual Scientific Sessions, 2025).
+- Zhao, T., **Li, A.**, Graziano, T., Chen, M. H., Matson, A., & Cong, X. (2025).
+  *Racial Disparity in the Association between Early Life Pain/Stress Exposure and Neurodevelopmental Outcomes among Black and White Preterm Infants.*
+  ENRS’ 37th Annual Scientific Sessions (Philadelphia, PA).
+  [[Conference]](https://enrs.memberclicks.net/2025-conference)
 
-- Chemotherapy-Related Symptoms Trajectories and the Linkage with Physical Activity and Diet in Colorectal Cancer Patients (ENRS’ 36th Annual Scientific Sessions, 2024).
+- Wu, W., **Li, A.**, Graziano, T., Salner, A., Chen, M. H., Judge, M. P., Cong, X., & Xu, W. (2024).
+  *Chemotherapy-Related Symptoms Trajectories and the Linkage with Physical Activity and Diet in Colorectal Cancer Patients.*
+  ENRS Annual Scientific Sessions.
+  [[Program]](https://enrs.memberclicks.net/assets/docs/2023_Conference/2023%20ENRS%20Conference%20Program_vFinal_230308.pdf)
 
-- Symptom Burdens and Social Factors in Older Cancer Survivors Receiving Immunotherapy: Insights from the NIH All of Us Research Program (Oncology Nursing Forum abstract, 2024).
+- Oppong, A., **Li, A.**, Graziano, T., & Yang, G. S. (2024, April).
+  *Symptom Burdens and Social Factors in Older Cancer Survivors Receiving Immunotherapy: Insights from the NIH All of Us Research Program.*
+  Oncology Nursing Society (ONS) Congress (Poster abstract).
+  [[Abstracts (ONF 10.1188/24.ONF.E2)]](https://doi.org/10.1188/24.ONF.E2)
 
-- Factors associated with pain in cancer survivors: An analysis of BRFSS data (Oncology Nursing Forum abstract, 2024).
+- Xu, W., Elliam, W., & **Li, A.** (2024, April).
+  *Factors Associated With Pain in Cancer Survivors: An Analysis of BRFSS Data.*
+  Oncology Nursing Society (ONS) Congress (Poster abstract).
+  [[Abstracts (ONF 10.1188/24.ONF.E2)]](https://doi.org/10.1188/24.ONF.E2)
 
-- The influence of race on differences in psychoneurological symptoms among early-stage breast cancer survivors (Council for the Advancement of Nursing Science, 2023).
+- Yang, G. S., Graziano, T. A., **Li, A.**, Starkweather, A. R., Lynch Kelly, D., & Lyon, D. E. (2023, September).
+  *The Influence of Race on Differences in Psychoneurological Symptoms Among Early-Stage Breast Cancer Survivors.*
+  Council for the Advancement of Nursing Science (Virtual event).
+  [[CANS]](https://aannet.org/page/cans)
 
-- Association of social determinants of health and COVID-19-related behaviors with cervical cancer screening in Hispanic women (Oncology Nursing Forum abstract, 2023).
+- **Li, A.**, & Graziano, T. (2023, April).
+  *Association of Social Determinants of Health and COVID-19-Related Behaviors with Cervical Cancer Screening in Hispanic Women.*
+  Oncology Nursing Society (ONS) Congress (Poster abstract).
+  [[Abstracts (ONF 10.1188/23.ONF.E2)]](https://doi.org/10.1188/23.ONF.E2)
