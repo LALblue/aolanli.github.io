@@ -52,6 +52,9 @@ Milkey, A., Chen, M. H., Wang, Y. B., **Li, A.**, & Lewis, P. O. (2025). The seq
 
 ### Conference Publications / Abstracts
 
+- Yang, G. S., Graziano, T. A., **Li, A.**, Oppong, A. F., Cousin, L., Lynch Kelly, D., Starkweather, A., & Lyon, D. E. (2026). Racial disparities in psychoneurological symptoms and health-promoting behaviors among breast cancer survivors: A two-year longitudinal study. *Oncology Nursing Forum, 53*(1), Article e26535244. [[DOI]](https://doi.org/10.1188/26.ONF.e26535244)
+
+
 - Informing Educational Outreach in Oncology: Evaluation of Dietary Consumption Patterns, Supplement Consumption and Clinical Factors in Breast Cancer Survivors (JAND conference abstract, 2025)[[DOI]](https://doi.org/10.1016/j.jand.2025.06.083)
 
 - Zhao, T., **Li, A.**, Graziano, T., Chen, M. H., Matson, A., & Cong, X. (2025).
