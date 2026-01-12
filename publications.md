@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Journal Articles
 
-**Li, A.**, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O., & Chen, M. H. (in press). *A comparison of Monte Carlo–based marginal likelihood estimators.* *WIREs Computational Statistics*.  
+Yang, G. S., Graziano, T. A., **Li, A.**, Oppong, A. F., Cousin, L., Lynch Kelly, D., Starkweather, A., & Lyon, D. E. (2026). Racial disparities in psychoneurological symptoms and health-promoting behaviors among breast cancer survivors: A two-year longitudinal study. *Oncology Nursing Forum, 53*(1), 1-15. [[DOI]](https://doi.org/10.1188/26.ONF.e26535244)
 
 Zhao, T., **Li, A.**, Wu, W., Chen, J., Combellick, J., Chen, M. H., & Cong, X. (2025). Maternal racial differences and socioeconomic status in preterm infant neurodevelopment, feeding, and growth. *Nursing Research*. Advance online publication.  
 [[DOI]](https://doi.org/10.1097/NNR.0000000000000878)
@@ -40,7 +40,10 @@ Wang, Y. B., Milkey, A., **Li, A.**, Chen, M. H., Kuo, L., & Lewis, P. O. (2023)
 
 ---
 
-### Preprints
+### Preprints & In Press
+
+
+**Li, A.**, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O., & Chen, M. H. (in press). *A comparison of Monte Carlo–based marginal likelihood estimators.* *WIREs Computational Statistics*.  
 
 Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., … & Cong, X. S. (2025). Machine learning to phenotype pain and predict response to pain interventions among young adults with irritable bowel syndrome. *medRxiv*.  
 [[DOI]](https://doi.org/10.1101/2025.10.07.25337516)
@@ -51,9 +54,6 @@ Milkey, A., Chen, M. H., Wang, Y. B., **Li, A.**, & Lewis, P. O. (2025). The seq
 ---
 
 ### Conference Publications / Abstracts
-
-- Yang, G. S., Graziano, T. A., **Li, A.**, Oppong, A. F., Cousin, L., Lynch Kelly, D., Starkweather, A., & Lyon, D. E. (2026). Racial disparities in psychoneurological symptoms and health-promoting behaviors among breast cancer survivors: A two-year longitudinal study. *Oncology Nursing Forum, 53*(1), Article e26535244. [[DOI]](https://doi.org/10.1188/26.ONF.e26535244)
-
 
 - Informing Educational Outreach in Oncology: Evaluation of Dietary Consumption Patterns, Supplement Consumption and Clinical Factors in Breast Cancer Survivors (JAND conference abstract, 2025)[[DOI]](https://doi.org/10.1016/j.jand.2025.06.083)
 
