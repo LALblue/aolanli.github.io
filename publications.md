@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Journal Articles
 
-Yang, G. S., Graziano, T. A., **Li, A.**, Oppong, A. F., Cousin, L., Lynch Kelly, D., Starkweather, A., & Lyon, D. E. (2026). Racial disparities in psychoneurological symptoms and health-promoting behaviors among breast cancer survivors: A two-year longitudinal study. *Oncology Nursing Forum, 53*(1), 1-15. [[DOI]](https://doi.org/10.1188/26.ONF.e26535244)
+Graziano, T. A., **Li, A.**, Oppong, A. F., Cousin, L., Kelly, D. L., Starkweather, A., & Lyon, D. E. (2026). Racial disparities in psychoneurological symptoms and health-promoting behaviors among breast cancer survivors: A two-year longitudinal study. *Oncology Nursing Forum, 53*(1), 1-15. [[DOI]](https://doi.org/10.1188/26.ONF.e26535244)
 
 Zhao, T., **Li, A.**, Wu, W., Chen, J., Combellick, J., Chen, M. H., & Cong, X. (2025). Maternal racial differences and socioeconomic status in preterm infant neurodevelopment, feeding, and growth. *Nursing Research*. Advance online publication.  
 [[DOI]](https://doi.org/10.1097/NNR.0000000000000878)
