@@ -43,7 +43,7 @@ Wang, Y. B., Milkey, A., **Li, A.**, Chen, M. H., Kuo, L., & Lewis, P. O. (2023)
 ### Preprints & In Press
 
 
-**Li, A.**, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O., & Chen, M. H. (in press). *A comparison of Monte Carlo–based marginal likelihood estimators.* *WIREs Computational Statistics*.  
+**Li, A.**, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O., & Chen, M. H. (in press). A comparison of Monte Carlo–based marginal likelihood estimators. *WIREs Computational Statistics*.  
 
 Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., … & Cong, X. S. (2025). Machine learning to phenotype pain and predict response to pain interventions among young adults with irritable bowel syndrome. *medRxiv*.  
 [[DOI]](https://doi.org/10.1101/2025.10.07.25337516)
