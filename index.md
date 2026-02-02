@@ -8,7 +8,8 @@ permalink: /
 [My CV](cv.html) ·
 [Google Scholar](https://scholar.google.com/citations?user=Ll702C4AAAAJ&hl=en&oi=ao) ·
 [ORCID](https://orcid.org/0009-0009-3525-395X) ·
-[LinkedIn](https://www.linkedin.com/in/aolan-li-606b6825a)
+[LinkedIn](https://www.linkedin.com/in/aolan-li-606b6825a) ·
+[ResearchGate](https://www.researchgate.net/profile/Aolan-Li-2)
 ---
 
 ## About
