@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Journal Articles
 
-**Li, A.**, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O. & Chen, M. H. (2026). Comparison of Monte Carlo Based Marginal Likelihood Estimators. *Wiley Interdisciplinary Reviews: Computational Statistics 18*(1), e70058. [[DOI]](https://wires.onlinelibrary.wiley.com/doi/10.1002/wics.70058)
+**Li, A.**, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O. & Chen, M. H. (2026). Comparison of Monte Carlo based marginal likelihood estimators. *Wiley Interdisciplinary Reviews: Computational Statistics 18*(1), e70058. [[DOI]](https://wires.onlinelibrary.wiley.com/doi/10.1002/wics.70058)
 
 Graziano, T. A., **Li, A.**, Oppong, A. F., Cousin, L., Kelly, D. L., Starkweather, A., & Lyon, D. E. (2026). Racial disparities in psychoneurological symptoms and health-promoting behaviors among breast cancer survivors: A two-year longitudinal study. *Oncology Nursing Forum, 53*(1), 1-15. [[DOI]](https://doi.org/10.1188/26.ONF.e26535244)
 
