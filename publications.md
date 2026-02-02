@@ -87,3 +87,4 @@ permalink: /publications/
   [[Abstracts]](https://www.proquest.com/openview/47670243e837e114d65ef2a089a6fc84/1?pq-origsite=gscholar&cbl=37213)
 
 1. Chen, M. H., Lewis, P., Milkey, A., Wang, Y. B., **Li, A.**, & Kuo, L. (2023). Data from: LoRaD: Marginal likelihood estimation with haste (but no waste).
+   [[DOI]](https://doi.org/10.5061/dryad.pg4f4qrrw)
